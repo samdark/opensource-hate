@@ -23,10 +23,6 @@ That's just "a bit" rude:
 
 ![](img/yii/001.png)
 
-Not hate by itself but the kind of reports maintainers hate most. "Something isn't working".
-
-![](img/yii/002.png)
-
 What kind of response Shahid was expecting by prefixing issues with "The worst PHP framework"?
 
 ![](img/yii/003.png)
