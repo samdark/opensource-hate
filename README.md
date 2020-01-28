@@ -44,3 +44,7 @@ This issue is at least... elaborative.
 Nope, that won't be implemented...
 
 ![](img/yii/008.png)
+
+Russian [haters](https://www.youtube.com/watch?v=GY5xSmLnSG0&lc=UgxvTeI-d-qpuXa80xB4AaABAg).
+
+![](img/yii/009.png)
