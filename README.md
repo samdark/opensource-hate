@@ -11,6 +11,12 @@ Hope you'll have a good laugh and keep doing good stuff.
 If you have more to share either about Yii or another project, pull requests
 are welcome.
 
+## lcobucci/jwt
+
+![](img/lcobucci/001.png)
+
+That's great way to say thanks to OpenSource you use, right? The title was originally saying "You ******".
+
 ## Yii framework
 
 [Yii framework](https://www.yiiframework.com/) is one of the popular PHP
