@@ -54,3 +54,6 @@ Nope, that won't be implemented...
 
 ![](img/yii/009.png)
 
+How dare we to use "death star" for PHP extensions! :)
+
+![](img/yii/010.png)
